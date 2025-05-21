@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @WAnweri4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi, I’m @W Anweri
 
-<!---
-WAnweri4/WAnweri4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 DevOps Engineer | CI/CD Enthusiast | Cloud-Native Advocate
+
+## 👀 I’m interested in
+
+🔹 Automating software delivery pipelines with CI/CD tools  
+🔹 Containerization with Docker & orchestration using Kubernetes  
+🔹 Infrastructure as Code (IaC) using Terraform & Ansible  
+🔹 Cloud platforms: AWS, Azure, GCP  
+🔹 Monitoring, logging, and performance tuning with tools like Prometheus, Grafana, and ELK  
+
+## 🌱 I’m currently learning
+
+📌 GitOps workflows and ArgoCD  
+📌 Serverless frameworks and event-driven architectures  
+📌 Advanced Kubernetes security and policy management  
+📌 Site Reliability Engineering (SRE) best practices  
+
+## 💞️ I’m looking to collaborate on
+
+✅ DevOps pipeline optimization projects  
+✅ Open-source infrastructure automation tools  
+✅ Scalable cloud-native architecture initiatives  
+
+## 📫 Contact
+
+📧 Email: anweriw4@gmail.com
